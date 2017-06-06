@@ -1,0 +1,401 @@
+PROGRAM,YEAR,COLLEGE,DIRECT_MEASURE,INDIRECT_MEASURE,AVERAGE-N,DATE,SLO,TIME,reference
+Multiple Subjects,2016Q1,Education,3.98,1.72,92,1992.01,1,Day Program,1
+Multiple Subjects,2016Q2,Education,3.94,3.36,67,1992.02,1,Day Program,2
+Multiple Subjects,2016Q3,Education,2.94,2.64,75,1992.03,1,Day Program,3
+Multiple Subjects,2016Q4,Education,2.49,2.16,52,1992.04,1,Day Program,4
+ART,2016Q1,Arts and Letters,1.66,2.16,72,1992.01,1,Day Program,5
+ART,2016Q2,Arts and Letters,2.15,1.1,81,1992.02,1,Day Program,6
+ART,2016Q3,Arts and Letters,1.67,3.38,63,1992.03,1,Day Program,7
+ART,2016Q4,Arts and Letters,1.92,3,72,1992.04,1,Day Program,8
+Humanties,2016Q1,Arts and Letters,3.1,1.75,76,1992.01,1,Day Program,9
+Humanties,2016Q2,Arts and Letters,2.6,2.94,62,1992.02,1,Day Program,10
+Humanties,2016Q3,Arts and Letters,2.15,2.43,69,1992.03,1,Day Program,11
+Humanties,2016Q4,Arts and Letters,2.38,1.18,69,1992.04,1,Day Program,12
+Biology,2016Q1,Natural Sciences,1.87,1.08,62,1992.01,1,Day Program,13
+Biology,2016Q2,Natural Sciences,3.82,3.32,100,1992.02,1,Day Program,14
+Biology,2016Q3,Natural Sciences,2.05,2.73,54,1992.03,1,Day Program,15
+Biology,2016Q4,Natural Sciences,3.87,1.38,82,1992.04,1,Day Program,16
+Career Technical,2016Q1,Continuing Education,1.29,2.06,60,1992.01,1,Day Program,17
+Career Technical,2016Q2,Continuing Education,3.92,2.98,81,1992.02,1,Day Program,18
+Career Technical,2016Q3,Continuing Education,3.26,3.11,59,1992.03,1,Day Program,19
+Career Technical,2016Q4,Continuing Education,1.3,2.19,70,1992.04,1,Day Program,20
+Dropout Prevention,2016Q1,Continuing Education,2.02,1.83,63,1992.01,1,Day Program,21
+Dropout Prevention,2016Q2,Continuing Education,3.84,1.04,52,1992.02,1,Day Program,22
+Dropout Prevention,2016Q3,Continuing Education,2.27,3.18,75,1992.03,1,Day Program,23
+Dropout Prevention,2016Q4,Continuing Education,3.03,3.15,73,1992.04,1,Day Program,24
+Single Subject,2016Q1,Education,1.48,2.59,97,1992.01,1,Day Program,25
+Single Subject,2016Q2,Education,1.37,1.68,100,1992.02,1,Day Program,26
+Single Subject,2016Q3,Education,2.6,2.3,100,1992.03,1,Day Program,27
+Single Subject,2016Q4,Education,1.7,3.74,66,1992.04,1,Day Program,28
+Communications,2016Q1,Arts and Letters,1.52,3.11,96,1992.01,1,Day Program,29
+Communications,2016Q2,Arts and Letters,3.47,1.33,74,1992.02,1,Day Program,30
+Communications,2016Q3,Arts and Letters,3.36,2.78,73,1992.03,1,Day Program,31
+Communications,2016Q4,Arts and Letters,2.67,1.01,78,1992.04,1,Day Program,32
+Music,2016Q1,Arts and Letters,1.61,2.59,59,1992.01,1,Day Program,33
+Music,2016Q2,Arts and Letters,3.57,1.18,64,1992.02,1,Day Program,34
+Music,2016Q3,Arts and Letters,2,3.2,70,1992.03,1,Day Program,35
+Music,2016Q4,Arts and Letters,1.28,3.03,56,1992.04,1,Day Program,36
+Geology,2016Q1,Natural Sciences,2.38,3.21,69,1992.01,1,Day Program,37
+Geology,2016Q2,Natural Sciences,1.07,1.81,82,1992.02,1,Day Program,38
+Geology,2016Q3,Natural Sciences,2.28,3.53,83,1992.03,1,Day Program,39
+Geology,2016Q4,Natural Sciences,2.13,3.08,51,1992.04,1,Day Program,40
+EDS Mild Mod,2016Q1,Education,3.96,1.15,90,1992.01,1,Day Program,41
+EDS Mild Mod,2016Q2,Education,3.73,3.5,97,1992.02,1,Day Program,42
+EDS Mild Mod,2016Q3,Education,3.91,1.3,78,1992.03,1,Day Program,43
+EDS Mild Mod,2016Q4,Education,1.06,2.74,74,1992.04,1,Day Program,44
+Design,2016Q1,Arts and Letters,3.77,2.84,62,1992.01,1,Day Program,45
+Design,2016Q2,Arts and Letters,3.05,1.09,68,1992.02,1,Day Program,46
+Design,2016Q3,Arts and Letters,2.01,2.89,93,1992.03,1,Day Program,47
+Design,2016Q4,Arts and Letters,3.9,1.58,57,1992.04,1,Day Program,48
+Philosophy,2016Q1,Arts and Letters,1.02,2.54,92,1992.01,1,Day Program,49
+Philosophy,2016Q2,Arts and Letters,2.71,3.09,67,1992.02,1,Day Program,50
+Philosophy,2016Q3,Arts and Letters,3.17,1.45,56,1992.03,1,Day Program,51
+Philosophy,2016Q4,Arts and Letters,1.09,3.71,59,1992.04,1,Day Program,52
+Statistics,2016Q1,Mathematics,3.07,2.46,51,1992.01,1,Day Program,53
+Statistics,2016Q2,Mathematics,2.81,1.91,88,1992.02,1,Day Program,54
+Statistics,2016Q3,Mathematics,3.31,3.08,99,1992.03,1,Day Program,55
+Statistics,2016Q4,Mathematics,1.77,3.93,85,1992.04,1,Day Program,56
+EDS Mod Severe,2016Q1,Education,3.6,1.51,99,1992.01,1,Day Program,57
+EDS Mod Severe,2016Q2,Education,1.79,1.86,99,1992.02,1,Day Program,58
+EDS Mod Severe,2016Q3,Education,3.17,3.94,59,1992.03,1,Day Program,59
+EDS Mod Severe,2016Q4,Education,1.64,2.32,84,1992.04,1,Day Program,60
+English,2016Q1,Arts and Letters,3.95,3.81,100,1992.01,1,Day Program,61
+English,2016Q2,Arts and Letters,2.65,1.52,90,1992.02,1,Day Program,62
+English,2016Q3,Arts and Letters,3.38,3.71,50,1992.03,1,Day Program,63
+English,2016Q4,Arts and Letters,3.26,3.21,79,1992.04,1,Day Program,64
+Really Hard Math,2016Q1,Mathematics,1.23,2.03,85,1992.01,1,Day Program,65
+Really Hard Math,2016Q2,Mathematics,2.11,1.2,72,1992.02,1,Day Program,66
+Really Hard Math,2016Q3,Mathematics,2.81,3.98,82,1992.03,1,Day Program,67
+Really Hard Math,2016Q4,Mathematics,1.7,1.17,66,1992.04,1,Day Program,68
+World Language,2016Q1,Arts and Letters,2.09,1.5,87,1992.01,1,Day Program,69
+World Language,2016Q2,Arts and Letters,1.39,3.37,98,1992.02,1,Day Program,70
+World Language,2016Q3,Arts and Letters,3.34,3.27,92,1992.03,1,Day Program,71
+World Language,2016Q4,Arts and Letters,1.79,1.52,59,1992.04,1,Day Program,72
+Pascal,2016Q1,Computer Science,3.54,2.24,52,1992.01,1,Day Program,73
+Pascal,2016Q2,Computer Science,3.33,1.11,86,1992.02,1,Day Program,74
+Pascal,2016Q3,Computer Science,2.7,2.2,50,1992.03,1,Day Program,75
+Pascal,2016Q4,Computer Science,1.76,2.32,61,1992.04,1,Day Program,76
+Multiple Subjects,2016Q1,Education,2.68,1.53,92,1992.01,2,Day Program,77
+Multiple Subjects,2016Q2,Education,2.07,3.24,67,1992.02,2,Day Program,78
+Multiple Subjects,2016Q3,Education,2.19,1.59,75,1992.03,2,Day Program,79
+Multiple Subjects,2016Q4,Education,2.51,3.5,52,1992.04,2,Day Program,80
+ART,2016Q1,Arts and Letters,2.07,2.49,72,1992.01,2,Day Program,81
+ART,2016Q2,Arts and Letters,2.1,2.58,81,1992.02,2,Day Program,82
+ART,2016Q3,Arts and Letters,2.41,1.28,63,1992.03,2,Day Program,83
+ART,2016Q4,Arts and Letters,1.93,2,72,1992.04,2,Day Program,84
+Humanties,2016Q1,Arts and Letters,3.04,2.73,76,1992.01,2,Day Program,85
+Humanties,2016Q2,Arts and Letters,1.93,2.48,62,1992.02,2,Day Program,86
+Humanties,2016Q3,Arts and Letters,2.78,2.56,69,1992.03,2,Day Program,87
+Humanties,2016Q4,Arts and Letters,2.81,2.64,69,1992.04,2,Day Program,88
+Biology,2016Q1,Natural Sciences,2.64,2.12,62,1992.01,2,Day Program,89
+Biology,2016Q2,Natural Sciences,3.33,3.97,100,1992.02,2,Day Program,90
+Biology,2016Q3,Natural Sciences,2.67,3.47,54,1992.03,2,Day Program,91
+Biology,2016Q4,Natural Sciences,3.72,3.66,82,1992.04,2,Day Program,92
+Career Technical,2016Q1,Continuing Education,1.98,3.36,60,1992.01,2,Day Program,93
+Career Technical,2016Q2,Continuing Education,3.64,2.54,81,1992.02,2,Day Program,94
+Career Technical,2016Q3,Continuing Education,2.35,3.15,59,1992.03,2,Day Program,95
+Career Technical,2016Q4,Continuing Education,1.13,1.97,70,1992.04,2,Day Program,96
+Dropout Prevention,2016Q1,Continuing Education,1.85,2.02,63,1992.01,2,Day Program,97
+Dropout Prevention,2016Q2,Continuing Education,2.86,1.93,52,1992.02,2,Day Program,98
+Dropout Prevention,2016Q3,Continuing Education,3.67,3.1,75,1992.03,2,Day Program,99
+Dropout Prevention,2016Q4,Continuing Education,3.34,3.36,73,1992.04,2,Day Program,100
+Single Subject,2016Q1,Education,3.64,1.51,97,1992.01,2,Day Program,101
+Single Subject,2016Q2,Education,1.12,1.51,100,1992.02,2,Day Program,102
+Single Subject,2016Q3,Education,2.44,3.92,100,1992.03,2,Day Program,103
+Single Subject,2016Q4,Education,3.62,3.04,66,1992.04,2,Day Program,104
+Communications,2016Q1,Arts and Letters,2.73,3.96,96,1992.01,2,Day Program,105
+Communications,2016Q2,Arts and Letters,2.08,1.8,74,1992.02,2,Day Program,106
+Communications,2016Q3,Arts and Letters,2.06,2.83,73,1992.03,2,Day Program,107
+Communications,2016Q4,Arts and Letters,1.15,3.07,78,1992.04,2,Day Program,108
+Music,2016Q1,Arts and Letters,3.98,1.58,59,1992.01,2,Day Program,109
+Music,2016Q2,Arts and Letters,1.93,1.39,64,1992.02,2,Day Program,110
+Music,2016Q3,Arts and Letters,3.27,2.67,70,1992.03,2,Day Program,111
+Music,2016Q4,Arts and Letters,3.53,2.7,56,1992.04,2,Day Program,112
+Geology,2016Q1,Natural Sciences,2.23,2.89,69,1992.01,2,Day Program,113
+Geology,2016Q2,Natural Sciences,2.73,1.17,82,1992.02,2,Day Program,114
+Geology,2016Q3,Natural Sciences,1.89,3.09,83,1992.03,2,Day Program,115
+Geology,2016Q4,Natural Sciences,1.35,1.35,51,1992.04,2,Day Program,116
+EDS Mild Mod,2016Q1,Education,1.6,3.49,90,1992.01,2,Day Program,117
+EDS Mild Mod,2016Q2,Education,1.54,2.67,97,1992.02,2,Day Program,118
+EDS Mild Mod,2016Q3,Education,1.06,3.22,78,1992.03,2,Day Program,119
+EDS Mild Mod,2016Q4,Education,3.35,3.31,74,1992.04,2,Day Program,120
+Design,2016Q1,Arts and Letters,3.5,2.1,62,1992.01,2,Day Program,121
+Design,2016Q2,Arts and Letters,2.11,3.5,68,1992.02,2,Day Program,122
+Design,2016Q3,Arts and Letters,1.02,2.85,93,1992.03,2,Day Program,123
+Design,2016Q4,Arts and Letters,1.44,3.41,57,1992.04,2,Day Program,124
+Philosophy,2016Q1,Arts and Letters,3.58,2.9,92,1992.01,2,Day Program,125
+Philosophy,2016Q2,Arts and Letters,1.5,3.82,67,1992.02,2,Day Program,126
+Philosophy,2016Q3,Arts and Letters,2.11,3.77,56,1992.03,2,Day Program,127
+Philosophy,2016Q4,Arts and Letters,2.79,2.94,59,1992.04,2,Day Program,128
+Statistics,2016Q1,Mathematics,2.06,2.58,51,1992.01,2,Day Program,129
+Statistics,2016Q2,Mathematics,2.72,1.89,88,1992.02,2,Day Program,130
+Statistics,2016Q3,Mathematics,1.99,3.18,99,1992.03,2,Day Program,131
+Statistics,2016Q4,Mathematics,3.3,3.16,85,1992.04,2,Day Program,132
+EDS Mod Severe,2016Q1,Education,2.6,2.79,99,1992.01,2,Day Program,133
+EDS Mod Severe,2016Q2,Education,1.4,3.98,99,1992.02,2,Day Program,134
+EDS Mod Severe,2016Q3,Education,3.32,2.77,59,1992.03,2,Day Program,135
+EDS Mod Severe,2016Q4,Education,1.33,2.8,84,1992.04,2,Day Program,136
+English,2016Q1,Arts and Letters,1.67,3.4,100,1992.01,2,Day Program,137
+English,2016Q2,Arts and Letters,1.7,2.63,90,1992.02,2,Day Program,138
+English,2016Q3,Arts and Letters,1.01,2.84,50,1992.03,2,Day Program,139
+English,2016Q4,Arts and Letters,2.11,2.3,79,1992.04,2,Day Program,140
+Really Hard Math,2016Q1,Mathematics,2.04,3.65,85,1992.01,2,Day Program,141
+Really Hard Math,2016Q2,Mathematics,2.16,1.8,72,1992.02,2,Day Program,142
+Really Hard Math,2016Q3,Mathematics,3.42,1.92,82,1992.03,2,Day Program,143
+Really Hard Math,2016Q4,Mathematics,3.05,3.21,66,1992.04,2,Day Program,144
+World Language,2016Q1,Arts and Letters,3.61,3.31,87,1992.01,2,Day Program,145
+World Language,2016Q2,Arts and Letters,2.03,1.03,98,1992.02,2,Day Program,146
+World Language,2016Q3,Arts and Letters,1.89,1.87,92,1992.03,2,Day Program,147
+World Language,2016Q4,Arts and Letters,1,2.79,59,1992.04,2,Day Program,148
+Pascal,2016Q1,Computer Science,1.15,3.67,52,1992.01,2,Day Program,149
+Pascal,2016Q2,Computer Science,2.5,2.58,86,1992.02,2,Day Program,150
+Pascal,2016Q3,Computer Science,1.75,3.58,50,1992.03,2,Day Program,151
+Pascal,2016Q4,Computer Science,1.65,2.66,61,1992.04,2,Day Program,152
+Multiple Subjects,2016Q1,Education,3.4,3.81,92,1992.01,3,Day Program,153
+Multiple Subjects,2016Q2,Education,3.59,3.46,67,1992.02,3,Day Program,154
+Multiple Subjects,2016Q3,Education,1.25,3.59,75,1992.03,3,Day Program,155
+Multiple Subjects,2016Q4,Education,2.33,1.72,52,1992.04,3,Day Program,156
+ART,2016Q1,Arts and Letters,2.25,2.61,72,1992.01,3,Day Program,157
+ART,2016Q2,Arts and Letters,1.65,3.07,81,1992.02,3,Day Program,158
+ART,2016Q3,Arts and Letters,1.94,1.8,63,1992.03,3,Day Program,159
+ART,2016Q4,Arts and Letters,2.75,1.03,72,1992.04,3,Day Program,160
+Humanties,2016Q1,Arts and Letters,3.71,2.95,76,1992.01,3,Day Program,161
+Humanties,2016Q2,Arts and Letters,3.1,3.85,62,1992.02,3,Day Program,162
+Humanties,2016Q3,Arts and Letters,2.01,3.35,69,1992.03,3,Day Program,163
+Humanties,2016Q4,Arts and Letters,2.37,1.93,69,1992.04,3,Day Program,164
+Biology,2016Q1,Natural Sciences,2.03,3.44,62,1992.01,3,Day Program,165
+Biology,2016Q2,Natural Sciences,3.6,3.66,100,1992.02,3,Day Program,166
+Biology,2016Q3,Natural Sciences,2.83,2.05,54,1992.03,3,Day Program,167
+Biology,2016Q4,Natural Sciences,3.37,2.8,82,1992.04,3,Day Program,168
+Career Technical,2016Q1,Continuing Education,1.35,1.3,60,1992.01,3,Day Program,169
+Career Technical,2016Q2,Continuing Education,3.57,1.4,81,1992.02,3,Day Program,170
+Career Technical,2016Q3,Continuing Education,3.1,1.12,59,1992.03,3,Day Program,171
+Career Technical,2016Q4,Continuing Education,1.42,1.08,70,1992.04,3,Day Program,172
+Dropout Prevention,2016Q1,Continuing Education,1.69,3.03,63,1992.01,3,Day Program,173
+Dropout Prevention,2016Q2,Continuing Education,3.31,2.82,52,1992.02,3,Day Program,174
+Dropout Prevention,2016Q3,Continuing Education,2.2,3.16,75,1992.03,3,Day Program,175
+Dropout Prevention,2016Q4,Continuing Education,2.42,2.44,73,1992.04,3,Day Program,176
+Single Subject,2016Q1,Education,3.65,1.57,97,1992.01,3,Day Program,177
+Single Subject,2016Q2,Education,3.65,1.46,100,1992.02,3,Day Program,178
+Single Subject,2016Q3,Education,2.11,3.42,100,1992.03,3,Day Program,179
+Single Subject,2016Q4,Education,3.22,3.74,66,1992.04,3,Day Program,180
+Communications,2016Q1,Arts and Letters,2.43,2.18,96,1992.01,3,Day Program,181
+Communications,2016Q2,Arts and Letters,3.56,3.67,74,1992.02,3,Day Program,182
+Communications,2016Q3,Arts and Letters,3.34,3.89,73,1992.03,3,Day Program,183
+Communications,2016Q4,Arts and Letters,1.7,3.48,78,1992.04,3,Day Program,184
+Music,2016Q1,Arts and Letters,3.17,2.39,59,1992.01,3,Day Program,185
+Music,2016Q2,Arts and Letters,1.64,2.72,64,1992.02,3,Day Program,186
+Music,2016Q3,Arts and Letters,3.18,3.97,70,1992.03,3,Day Program,187
+Music,2016Q4,Arts and Letters,3.03,1.01,56,1992.04,3,Day Program,188
+Geology,2016Q1,Natural Sciences,2.98,2.53,69,1992.01,3,Day Program,189
+Geology,2016Q2,Natural Sciences,1.61,1.04,82,1992.02,3,Day Program,190
+Geology,2016Q3,Natural Sciences,2.47,2.11,83,1992.03,3,Day Program,191
+Geology,2016Q4,Natural Sciences,1.44,3.24,51,1992.04,3,Day Program,192
+EDS Mild Mod,2016Q1,Education,1.27,2.43,90,1992.01,3,Day Program,193
+EDS Mild Mod,2016Q2,Education,2.84,1.37,97,1992.02,3,Day Program,194
+EDS Mild Mod,2016Q3,Education,2.22,1.74,78,1992.03,3,Day Program,195
+EDS Mild Mod,2016Q4,Education,3.83,2.18,74,1992.04,3,Day Program,196
+Design,2016Q1,Arts and Letters,1.18,3.98,62,1992.01,3,Day Program,197
+Design,2016Q2,Arts and Letters,1.57,1.12,68,1992.02,3,Day Program,198
+Design,2016Q3,Arts and Letters,3.95,2.16,93,1992.03,3,Day Program,199
+Design,2016Q4,Arts and Letters,3.6,3.18,57,1992.04,3,Day Program,200
+Philosophy,2016Q1,Arts and Letters,2.63,3.66,92,1992.01,3,Day Program,201
+Philosophy,2016Q2,Arts and Letters,1.52,1.73,67,1992.02,3,Day Program,202
+Philosophy,2016Q3,Arts and Letters,1.79,1.53,56,1992.03,3,Day Program,203
+Philosophy,2016Q4,Arts and Letters,3.09,3.62,59,1992.04,3,Day Program,204
+Statistics,2016Q1,Mathematics,3.58,1.12,51,1992.01,3,Day Program,205
+Statistics,2016Q2,Mathematics,3.33,3.07,88,1992.02,3,Day Program,206
+Statistics,2016Q3,Mathematics,1.29,3.48,99,1992.03,3,Day Program,207
+Statistics,2016Q4,Mathematics,3.37,1.34,85,1992.04,3,Day Program,208
+EDS Mod Severe,2016Q1,Education,2.7,1.86,99,1992.01,3,Day Program,209
+EDS Mod Severe,2016Q2,Education,2.62,1.42,99,1992.02,3,Day Program,210
+EDS Mod Severe,2016Q3,Education,2.3,2.07,59,1992.03,3,Day Program,211
+EDS Mod Severe,2016Q4,Education,2.21,2.86,84,1992.04,3,Day Program,212
+English,2016Q1,Arts and Letters,2.06,1.62,100,1992.01,3,Day Program,213
+English,2016Q2,Arts and Letters,2.12,3.09,90,1992.02,3,Day Program,214
+English,2016Q3,Arts and Letters,2.16,2.11,50,1992.03,3,Day Program,215
+English,2016Q4,Arts and Letters,2.33,2.31,79,1992.04,3,Day Program,216
+Really Hard Math,2016Q1,Mathematics,2.04,3.74,85,1992.01,3,Day Program,217
+Really Hard Math,2016Q2,Mathematics,2.76,2.25,72,1992.02,3,Day Program,218
+Really Hard Math,2016Q3,Mathematics,1.37,1.82,82,1992.03,3,Day Program,219
+Really Hard Math,2016Q4,Mathematics,1.96,2.74,66,1992.04,3,Day Program,220
+World Language,2016Q1,Arts and Letters,2.34,1.14,87,1992.01,3,Day Program,221
+World Language,2016Q2,Arts and Letters,1.47,3.21,98,1992.02,3,Day Program,222
+World Language,2016Q3,Arts and Letters,3.67,2.98,92,1992.03,3,Day Program,223
+World Language,2016Q4,Arts and Letters,2.1,1.13,59,1992.04,3,Day Program,224
+Pascal,2016Q1,Computer Science,2.12,2.89,52,1992.01,3,Day Program,225
+Pascal,2016Q2,Computer Science,1.05,1.79,86,1992.02,3,Day Program,226
+Pascal,2016Q3,Computer Science,1.87,1.97,50,1992.03,3,Day Program,227
+Pascal,2016Q4,Computer Science,1.47,2.79,61,1992.04,3,Day Program,228
+Multiple Subjects,2016Q1,Education,2.19,1.39,92,1992.01,4,Day Program,229
+Multiple Subjects,2016Q2,Education,1.63,1.23,67,1992.02,4,Day Program,230
+Multiple Subjects,2016Q3,Education,3.61,2.77,75,1992.03,4,Day Program,231
+Multiple Subjects,2016Q4,Education,1.95,1.54,52,1992.04,4,Day Program,232
+ART,2016Q1,Arts and Letters,3.6,1.83,72,1992.01,4,Day Program,233
+ART,2016Q2,Arts and Letters,2.03,3.22,81,1992.02,4,Day Program,234
+ART,2016Q3,Arts and Letters,2.14,3.55,63,1992.03,4,Day Program,235
+ART,2016Q4,Arts and Letters,4,3.09,72,1992.04,4,Day Program,236
+Humanties,2016Q1,Arts and Letters,3.04,1.66,76,1992.01,4,Day Program,237
+Humanties,2016Q2,Arts and Letters,3.14,3.69,62,1992.02,4,Day Program,238
+Humanties,2016Q3,Arts and Letters,3.46,3.46,69,1992.03,4,Day Program,239
+Humanties,2016Q4,Arts and Letters,2.21,2.7,69,1992.04,4,Day Program,240
+Biology,2016Q1,Natural Sciences,3.07,1.32,62,1992.01,4,Day Program,241
+Biology,2016Q2,Natural Sciences,2.52,1.9,100,1992.02,4,Day Program,242
+Biology,2016Q3,Natural Sciences,3.32,1.05,54,1992.03,4,Day Program,243
+Biology,2016Q4,Natural Sciences,3.73,2.8,82,1992.04,4,Day Program,244
+Career Technical,2016Q1,Continuing Education,2.07,2.79,60,1992.01,4,Day Program,245
+Career Technical,2016Q2,Continuing Education,1.4,2.63,81,1992.02,4,Day Program,246
+Career Technical,2016Q3,Continuing Education,2.27,2.3,59,1992.03,4,Day Program,247
+Career Technical,2016Q4,Continuing Education,3.09,1.75,70,1992.04,4,Day Program,248
+Dropout Prevention,2016Q1,Continuing Education,3.95,1.38,63,1992.01,4,Day Program,249
+Dropout Prevention,2016Q2,Continuing Education,3.35,1.84,52,1992.02,4,Day Program,250
+Dropout Prevention,2016Q3,Continuing Education,2.31,1.57,75,1992.03,4,Day Program,251
+Dropout Prevention,2016Q4,Continuing Education,3.85,3.94,73,1992.04,4,Day Program,252
+Single Subject,2016Q1,Education,2.16,1.47,97,1992.01,4,Day Program,253
+Single Subject,2016Q2,Education,1.92,1.53,100,1992.02,4,Day Program,254
+Single Subject,2016Q3,Education,3.26,3.94,100,1992.03,4,Day Program,255
+Single Subject,2016Q4,Education,1.03,2.78,66,1992.04,4,Day Program,256
+Communications,2016Q1,Arts and Letters,1.94,2.97,96,1992.01,4,Day Program,257
+Communications,2016Q2,Arts and Letters,1.2,1.89,74,1992.02,4,Day Program,258
+Communications,2016Q3,Arts and Letters,1.17,1.08,73,1992.03,4,Day Program,259
+Communications,2016Q4,Arts and Letters,1.6,2.25,78,1992.04,4,Day Program,260
+Music,2016Q1,Arts and Letters,2.39,2.67,59,1992.01,4,Day Program,261
+Music,2016Q2,Arts and Letters,1.86,1.07,64,1992.02,4,Day Program,262
+Music,2016Q3,Arts and Letters,2.64,2.26,70,1992.03,4,Day Program,263
+Music,2016Q4,Arts and Letters,3.89,2.32,56,1992.04,4,Day Program,264
+Geology,2016Q1,Natural Sciences,3.54,3.64,69,1992.01,4,Day Program,265
+Geology,2016Q2,Natural Sciences,1.56,2.39,82,1992.02,4,Day Program,266
+Geology,2016Q3,Natural Sciences,2.14,2.31,83,1992.03,4,Day Program,267
+Geology,2016Q4,Natural Sciences,2.03,3.85,51,1992.04,4,Day Program,268
+EDS Mild Mod,2016Q1,Education,3.75,2.21,90,1992.01,4,Day Program,269
+EDS Mild Mod,2016Q2,Education,2.17,1.84,97,1992.02,4,Day Program,270
+EDS Mild Mod,2016Q3,Education,3.85,2.05,78,1992.03,4,Day Program,271
+EDS Mild Mod,2016Q4,Education,2.52,3.55,74,1992.04,4,Day Program,272
+Design,2016Q1,Arts and Letters,1.77,1.69,62,1992.01,4,Day Program,273
+Design,2016Q2,Arts and Letters,1.49,3.72,68,1992.02,4,Day Program,274
+Design,2016Q3,Arts and Letters,1.64,3.33,93,1992.03,4,Day Program,275
+Design,2016Q4,Arts and Letters,1.88,2.1,57,1992.04,4,Day Program,276
+Philosophy,2016Q1,Arts and Letters,2.17,3.9,92,1992.01,4,Day Program,277
+Philosophy,2016Q2,Arts and Letters,3.44,2.35,67,1992.02,4,Day Program,278
+Philosophy,2016Q3,Arts and Letters,3.62,3.82,56,1992.03,4,Day Program,279
+Philosophy,2016Q4,Arts and Letters,2.47,1.88,59,1992.04,4,Day Program,280
+Statistics,2016Q1,Mathematics,2.89,3.12,51,1992.01,4,Day Program,281
+Statistics,2016Q2,Mathematics,3.43,2.16,88,1992.02,4,Day Program,282
+Statistics,2016Q3,Mathematics,3.44,3.87,99,1992.03,4,Day Program,283
+Statistics,2016Q4,Mathematics,2.54,3.38,85,1992.04,4,Day Program,284
+EDS Mod Severe,2016Q1,Education,3.02,2.42,99,1992.01,4,Day Program,285
+EDS Mod Severe,2016Q2,Education,2.76,2.89,99,1992.02,4,Day Program,286
+EDS Mod Severe,2016Q3,Education,2.35,1.48,59,1992.03,4,Day Program,287
+EDS Mod Severe,2016Q4,Education,1.1,1.15,84,1992.04,4,Day Program,288
+English,2016Q1,Arts and Letters,3.7,3.44,100,1992.01,4,Day Program,289
+English,2016Q2,Arts and Letters,1.44,1.81,90,1992.02,4,Day Program,290
+English,2016Q3,Arts and Letters,2.7,2.92,50,1992.03,4,Day Program,291
+English,2016Q4,Arts and Letters,3.06,1.21,79,1992.04,4,Day Program,292
+Really Hard Math,2016Q1,Mathematics,4,1.93,85,1992.01,4,Day Program,293
+Really Hard Math,2016Q2,Mathematics,1,3.39,72,1992.02,4,Day Program,294
+Really Hard Math,2016Q3,Mathematics,3.26,1.36,82,1992.03,4,Day Program,295
+Really Hard Math,2016Q4,Mathematics,2.85,1.18,66,1992.04,4,Day Program,296
+World Language,2016Q1,Arts and Letters,2.09,3.52,87,1992.01,4,Day Program,297
+World Language,2016Q2,Arts and Letters,3,1.9,98,1992.02,4,Day Program,298
+World Language,2016Q3,Arts and Letters,3.8,1.4,92,1992.03,4,Day Program,299
+World Language,2016Q4,Arts and Letters,1.38,2.93,59,1992.04,4,Day Program,300
+Pascal,2016Q1,Computer Science,1.27,2.58,52,1992.01,4,Day Program,301
+Pascal,2016Q2,Computer Science,2.96,2.26,86,1992.02,4,Day Program,302
+Pascal,2016Q3,Computer Science,3.03,1.2,50,1992.03,4,Day Program,303
+Pascal,2016Q4,Computer Science,2.27,1.3,61,1992.04,4,Day Program,304
+Multiple Subjects,2016Q1,Education,2.76,2.67,92,1992.01,5,Day Program,305
+Multiple Subjects,2016Q2,Education,2.87,3.39,67,1992.02,5,Day Program,306
+Multiple Subjects,2016Q3,Education,1.36,3.59,75,1992.03,5,Day Program,307
+Multiple Subjects,2016Q4,Education,2.25,1.21,52,1992.04,5,Day Program,308
+ART,2016Q1,Arts and Letters,3.14,3.43,72,1992.01,5,Day Program,309
+ART,2016Q2,Arts and Letters,2.31,3.48,81,1992.02,5,Day Program,310
+ART,2016Q3,Arts and Letters,2.9,2.13,63,1992.03,5,Day Program,311
+ART,2016Q4,Arts and Letters,2.09,3.37,72,1992.04,5,Day Program,312
+Humanties,2016Q1,Arts and Letters,3.09,2.58,76,1992.01,5,Day Program,313
+Humanties,2016Q2,Arts and Letters,3.76,1.63,62,1992.02,5,Day Program,314
+Humanties,2016Q3,Arts and Letters,3.44,3.38,69,1992.03,5,Day Program,315
+Humanties,2016Q4,Arts and Letters,1.04,1.84,69,1992.04,5,Day Program,316
+Biology,2016Q1,Natural Sciences,2.52,2.59,62,1992.01,5,Day Program,317
+Biology,2016Q2,Natural Sciences,1.7,1.32,100,1992.02,5,Day Program,318
+Biology,2016Q3,Natural Sciences,2.69,3.04,54,1992.03,5,Day Program,319
+Biology,2016Q4,Natural Sciences,2.99,3.72,82,1992.04,5,Day Program,320
+Career Technical,2016Q1,Continuing Education,2.03,1.59,60,1992.01,5,Day Program,321
+Career Technical,2016Q2,Continuing Education,1.93,2.56,81,1992.02,5,Day Program,322
+Career Technical,2016Q3,Continuing Education,2.37,3.38,59,1992.03,5,Day Program,323
+Career Technical,2016Q4,Continuing Education,3.54,1.83,70,1992.04,5,Day Program,324
+Dropout Prevention,2016Q1,Continuing Education,3.86,1.79,63,1992.01,5,Day Program,325
+Dropout Prevention,2016Q2,Continuing Education,3.39,1.81,52,1992.02,5,Day Program,326
+Dropout Prevention,2016Q3,Continuing Education,3.85,3.95,75,1992.03,5,Day Program,327
+Dropout Prevention,2016Q4,Continuing Education,3.93,1.1,73,1992.04,5,Day Program,328
+Single Subject,2016Q1,Education,3.77,3.05,97,1992.01,5,Day Program,329
+Single Subject,2016Q2,Education,2.45,1.64,100,1992.02,5,Day Program,330
+Single Subject,2016Q3,Education,1.73,1.76,100,1992.03,5,Day Program,331
+Single Subject,2016Q4,Education,1.45,1.35,66,1992.04,5,Day Program,332
+Communications,2016Q1,Arts and Letters,2.57,1.47,96,1992.01,5,Day Program,333
+Communications,2016Q2,Arts and Letters,2.66,2.92,74,1992.02,5,Day Program,334
+Communications,2016Q3,Arts and Letters,1.69,2.91,73,1992.03,5,Day Program,335
+Communications,2016Q4,Arts and Letters,1.74,1.15,78,1992.04,5,Day Program,336
+Music,2016Q1,Arts and Letters,1.18,3.43,59,1992.01,5,Day Program,337
+Music,2016Q2,Arts and Letters,2.23,1.24,64,1992.02,5,Day Program,338
+Music,2016Q3,Arts and Letters,3.09,2.35,70,1992.03,5,Day Program,339
+Music,2016Q4,Arts and Letters,2.65,3.75,56,1992.04,5,Day Program,340
+Geology,2016Q1,Natural Sciences,3.64,2.78,69,1992.01,5,Day Program,341
+Geology,2016Q2,Natural Sciences,3.65,3.77,82,1992.02,5,Day Program,342
+Geology,2016Q3,Natural Sciences,3.2,2.78,83,1992.03,5,Day Program,343
+Geology,2016Q4,Natural Sciences,3.54,1.52,51,1992.04,5,Day Program,344
+EDS Mild Mod,2016Q1,Education,1.77,1.12,90,1992.01,5,Day Program,345
+EDS Mild Mod,2016Q2,Education,2.83,1,97,1992.02,5,Day Program,346
+EDS Mild Mod,2016Q3,Education,3.77,2.11,78,1992.03,5,Day Program,347
+EDS Mild Mod,2016Q4,Education,3,2.06,74,1992.04,5,Day Program,348
+Design,2016Q1,Arts and Letters,2.45,2.28,62,1992.01,5,Day Program,349
+Design,2016Q2,Arts and Letters,2.48,2.99,68,1992.02,5,Day Program,350
+Design,2016Q3,Arts and Letters,2.93,2.23,93,1992.03,5,Day Program,351
+Design,2016Q4,Arts and Letters,3.79,1.46,57,1992.04,5,Day Program,352
+Philosophy,2016Q1,Arts and Letters,2.1,1.36,92,1992.01,5,Day Program,353
+Philosophy,2016Q2,Arts and Letters,3.26,2.53,67,1992.02,5,Day Program,354
+Philosophy,2016Q3,Arts and Letters,1.28,1.05,56,1992.03,5,Day Program,355
+Philosophy,2016Q4,Arts and Letters,1.82,2.84,59,1992.04,5,Day Program,356
+Statistics,2016Q1,Mathematics,3.58,1.68,51,1992.01,5,Day Program,357
+Statistics,2016Q2,Mathematics,2.32,3.11,88,1992.02,5,Day Program,358
+Statistics,2016Q3,Mathematics,4,2.36,99,1992.03,5,Day Program,359
+Statistics,2016Q4,Mathematics,3.97,3.57,85,1992.04,5,Day Program,360
+EDS Mod Severe,2016Q1,Education,1.11,3.41,99,1992.01,5,Day Program,361
+EDS Mod Severe,2016Q2,Education,1.94,2.64,99,1992.02,5,Day Program,362
+EDS Mod Severe,2016Q3,Education,3.16,2.83,59,1992.03,5,Day Program,363
+EDS Mod Severe,2016Q4,Education,1.34,2.82,84,1992.04,5,Day Program,364
+English,2016Q1,Arts and Letters,3.34,1.18,100,1992.01,5,Day Program,365
+English,2016Q2,Arts and Letters,1.61,1.39,90,1992.02,5,Day Program,366
+English,2016Q3,Arts and Letters,1.03,3.19,50,1992.03,5,Day Program,367
+English,2016Q4,Arts and Letters,1.52,2.79,79,1992.04,5,Day Program,368
+Really Hard Math,2016Q1,Mathematics,1.2,2.45,85,1992.01,5,Day Program,369
+Really Hard Math,2016Q2,Mathematics,1.4,1.17,72,1992.02,5,Day Program,370
+Really Hard Math,2016Q3,Mathematics,3.09,2.19,82,1992.03,5,Day Program,371
+Really Hard Math,2016Q4,Mathematics,3.27,2.75,66,1992.04,5,Day Program,372
+World Language,2016Q1,Arts and Letters,2.87,3.75,87,1992.01,5,Day Program,373
+World Language,2016Q2,Arts and Letters,2.43,3.31,98,1992.02,5,Day Program,374
+World Language,2016Q3,Arts and Letters,2.96,3.73,92,1992.03,5,Day Program,375
+World Language,2016Q4,Arts and Letters,1.76,1.74,59,1992.04,5,Day Program,376
+Pascal,2016Q1,Computer Science,2.32,3.84,52,1992.01,5,Day Program,377
+Pascal,2016Q2,Computer Science,1.17,2.16,86,1992.02,5,Day Program,378
+Pascal,2016Q3,Computer Science,2.82,2.43,50,1992.03,5,Day Program,379
+Pascal,2016Q4,Computer Science,1.84,3.49,61,1992.04,5,Day Program,380
+Apple IIe,2016Q1,Computer Science,2.78,2.15,52,1992.01,1,Day Program,73
+Apple IIe,2016Q2,Computer Science,3.98,2.2,86,1992.02,1,Day Program,74
+Apple IIe,2016Q3,Computer Science,2.8,2.23,50,1992.03,1,Day Program,75
+Apple IIe,2016Q4,Computer Science,1.8,2.67,61,1992.04,1,Day Program,76
+Apple IIe,2016Q1,Computer Science,3.88,2.42,52,1992.01,2,Day Program,149
+Apple IIe,2016Q2,Computer Science,1.36,1.69,86,1992.02,2,Day Program,150
+Apple IIe,2016Q3,Computer Science,2.46,1.67,50,1992.03,2,Day Program,151
+Apple IIe,2016Q4,Computer Science,1.24,2.58,61,1992.04,2,Day Program,152
+Apple IIe,2016Q1,Computer Science,2.63,2.8,52,1992.01,3,Day Program,225
+Apple IIe,2016Q2,Computer Science,1.52,2.67,86,1992.02,3,Day Program,226
+Apple IIe,2016Q3,Computer Science,3.72,2.26,50,1992.03,3,Day Program,227
+Apple IIe,2016Q4,Computer Science,1.17,2.45,61,1992.04,3,Day Program,228
+Apple IIe,2016Q1,Computer Science,2.48,3.54,52,1992.01,4,Day Program,301
+Apple IIe,2016Q2,Computer Science,2.35,3.24,86,1992.02,4,Day Program,302
+Apple IIe,2016Q3,Computer Science,3.48,1.52,50,1992.03,4,Day Program,303
+Apple IIe,2016Q4,Computer Science,1.21,2.21,61,1992.04,4,Day Program,304
+Apple IIe,2016Q1,Computer Science,3.07,2.97,52,1992.01,5,Day Program,377
+Apple IIe,2016Q2,Computer Science,2.99,3.64,86,1992.02,5,Day Program,378
+Apple IIe,2016Q3,Computer Science,1.72,1.32,50,1992.03,5,Day Program,379
+Apple IIe,2016Q4,Computer Science,3.72,2.12,61,1992.04,5,Day Program,380

@@ -1,0 +1,91 @@
+PROGRAM,YEAR,DEPARTMENT,DIRECT_MEASURE,INDIRECT_MEASURE,AVERAGE-N,DATE,SLO
+Elementary,2010,Teacher Education,2.99,3.3,91,12/31/2010,1
+Secondary,2010,Teacher Education,2.42,3.34,42,12/31/2010,1
+Ed Specialist,2010,Teacher Education,2.43,2.57,31,12/31/2010,1
+Nurse,2010,Health Professionals,2.71,2.73,28,12/31/2010,1
+Social Work,2010,Health Professionals,1.9,3.41,42,12/31/2010,1
+Psychologist,2010,Leadership,3.29,1.06,29,12/31/2010,1
+Elementary,2011,Teacher Education,3.92,2.34,98,12/31/2011,1
+Secondary,2011,Teacher Education,3.1,1.7,40,12/31/2011,1
+Ed Specialist,2011,Teacher Education,2.2,1.67,46,12/31/2011,1
+Nurse,2011,Health Professionals,1.9,2.66,71,12/31/2011,1
+Social Work,2011,Health Professionals,3.65,3.82,83,12/31/2011,1
+Psychologist,2011,Leadership,2.64,3.06,77,12/31/2011,1
+Elementary,2012,Teacher Education,2.63,3.72,70,12/31/2012,1
+Secondary,2012,Teacher Education,2.5,2.6,74,12/31/2012,1
+Ed Specialist,2012,Teacher Education,2.55,2.1,91,12/31/2012,1
+Nurse,2012,Health Professionals,1.86,1.76,42,12/31/2012,1
+Social Work,2012,Health Professionals,2.65,2.23,24,12/31/2012,1
+Psychologist,2012,Leadership,3.37,3.62,32,12/31/2012,1
+Elementary,2010,Teacher Education,2.33,2.74,97,12/31/2010,2
+Secondary,2010,Teacher Education,1.24,3.03,35,12/31/2010,2
+Ed Specialist,2010,Teacher Education,1.84,3.66,99,12/31/2010,2
+Nurse,2010,Health Professionals,3.41,1.8,35,12/31/2010,2
+Social Work,2010,Health Professionals,2.44,1.25,26,12/31/2010,2
+Psychologist,2010,Leadership,3.35,3.35,33,12/31/2010,2
+Elementary,2011,Teacher Education,1.48,3.76,47,12/31/2011,2
+Secondary,2011,Teacher Education,3.16,2.62,36,12/31/2011,2
+Ed Specialist,2011,Teacher Education,1.01,2.09,89,12/31/2011,2
+Nurse,2011,Health Professionals,2.5,2.62,43,12/31/2011,2
+Social Work,2011,Health Professionals,2.17,2.19,35,12/31/2011,2
+Psychologist,2011,Leadership,2.22,1.1,67,12/31/2011,2
+Elementary,2012,Teacher Education,3.2,2.44,53,12/31/2012,2
+Secondary,2012,Teacher Education,3.83,1.91,29,12/31/2012,2
+Ed Specialist,2012,Teacher Education,1.84,2.91,36,12/31/2012,2
+Nurse,2012,Health Professionals,1.08,3.99,87,12/31/2012,2
+Social Work,2012,Health Professionals,1.1,2.65,77,12/31/2012,2
+Psychologist,2012,Leadership,2.41,2.82,52,12/31/2012,2
+Elementary,2010,Teacher Education,3.77,1.91,79,12/31/2010,3
+Secondary,2010,Teacher Education,3.65,2.9,54,12/31/2010,3
+Ed Specialist,2010,Teacher Education,3.66,1.66,95,12/31/2010,3
+Nurse,2010,Health Professionals,2.79,1.04,25,12/31/2010,3
+Social Work,2010,Health Professionals,3.39,2.95,90,12/31/2010,3
+Psychologist,2010,Leadership,2.28,2.95,96,12/31/2010,3
+Elementary,2011,Teacher Education,2.25,1.18,51,12/31/2011,3
+Secondary,2011,Teacher Education,1.26,1.23,52,12/31/2011,3
+Ed Specialist,2011,Teacher Education,1.41,3.59,68,12/31/2011,3
+Nurse,2011,Health Professionals,1.69,1.9,100,12/31/2011,3
+Social Work,2011,Health Professionals,2.98,3.31,91,12/31/2011,3
+Psychologist,2011,Leadership,2.13,3.64,44,12/31/2011,3
+Elementary,2012,Teacher Education,2.12,3.78,60,12/31/2012,3
+Secondary,2012,Teacher Education,2.22,1.42,71,12/31/2012,3
+Ed Specialist,2012,Teacher Education,3.19,2.26,66,12/31/2012,3
+Nurse,2012,Health Professionals,3.9,2.47,69,12/31/2012,3
+Social Work,2012,Health Professionals,2.01,1.31,61,12/31/2012,3
+Psychologist,2012,Leadership,1.14,3.01,25,12/31/2012,3
+Elementary,2010,Teacher Education,2.66,2.13,36,12/31/2010,4
+Secondary,2010,Teacher Education,1.17,2.23,43,12/31/2010,4
+Ed Specialist,2010,Teacher Education,3.84,1.62,100,12/31/2010,4
+Nurse,2010,Health Professionals,1.41,3.06,54,12/31/2010,4
+Social Work,2010,Health Professionals,3.93,3.97,37,12/31/2010,4
+Psychologist,2010,Leadership,2.43,1.17,71,12/31/2010,4
+Elementary,2011,Teacher Education,1.72,2.68,36,12/31/2011,4
+Secondary,2011,Teacher Education,3.72,3.47,33,12/31/2011,4
+Ed Specialist,2011,Teacher Education,2.6,2.79,62,12/31/2011,4
+Nurse,2011,Health Professionals,3.85,1.67,76,12/31/2011,4
+Social Work,2011,Health Professionals,1.07,1.37,72,12/31/2011,4
+Psychologist,2011,Leadership,2.09,1.4,64,12/31/2011,4
+Elementary,2012,Teacher Education,1.06,1.3,80,12/31/2012,4
+Secondary,2012,Teacher Education,1.25,1.19,82,12/31/2012,4
+Ed Specialist,2012,Teacher Education,2.89,2.23,85,12/31/2012,4
+Nurse,2012,Health Professionals,1.29,2.95,60,12/31/2012,4
+Social Work,2012,Health Professionals,1.41,2.79,97,12/31/2012,4
+Psychologist,2012,Leadership,2.57,1.61,39,12/31/2012,4
+Elementary,2010,Teacher Education,2.55,1.2,78,12/31/2010,5
+Secondary,2010,Teacher Education,3.35,3.7,39,12/31/2010,5
+Ed Specialist,2010,Teacher Education,3.65,1.34,62,12/31/2010,5
+Nurse,2010,Health Professionals,2.79,3.46,28,12/31/2010,5
+Social Work,2010,Health Professionals,1.37,1.91,41,12/31/2010,5
+Psychologist,2010,Leadership,1.93,2.83,90,12/31/2010,5
+Elementary,2011,Teacher Education,1.2,1.79,34,12/31/2011,5
+Secondary,2011,Teacher Education,2.86,3.65,82,12/31/2011,5
+Ed Specialist,2011,Teacher Education,2.78,1.6,89,12/31/2011,5
+Nurse,2011,Health Professionals,1.25,1.07,61,12/31/2011,5
+Social Work,2011,Health Professionals,2.96,3.04,75,12/31/2011,5
+Psychologist,2011,Leadership,3.93,3.32,95,12/31/2011,5
+Elementary,2012,Teacher Education,1.66,3.66,75,12/31/2012,5
+Secondary,2012,Teacher Education,3.37,1.89,42,12/31/2012,5
+Ed Specialist,2012,Teacher Education,1.7,1.75,59,12/31/2012,5
+Nurse,2012,Health Professionals,1.48,3,92,12/31/2012,5
+Social Work,2012,Health Professionals,3.81,3.79,50,12/31/2012,5
+Psychologist,2012,Leadership,1,3.16,30,12/31/2012,5
